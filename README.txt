@@ -1,7 +1,5 @@
 
 
-1. Please connect to internet before accessing the webpage.
+1. This is a project for the course: COMP6234 - Data Visualisation from University of Southampton
 
-2. The webpage is best displayed using a compurter screen from University of Southampton
-
-3. Webpage can be navigated through navigation bar, scrolling, keyboard, and mouse.
+2. The webpage can be navigated through navigation bar, scrolling, keyboard, and mouse
